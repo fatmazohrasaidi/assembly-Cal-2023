@@ -11,7 +11,7 @@ EMU8086: An 8086 emulator and assembler.
 
 # How to Run  
 1-Open EMU8086.  
-2-Load the CAL.ASM file.  
+2-Load the .ASM file.  
 3-Click Assemble to compile the code.  
 4-Click Run to execute the program.  
 5-Follow the on-screen instructions to input numbers and perform calculations.
