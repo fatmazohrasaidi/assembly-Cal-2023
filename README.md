@@ -4,13 +4,14 @@ Supports addition, subtraction, multiplication, and division for binary, decimal
 
 # Features  
 Supports input in binary (base 2), decimal (base 10), and hexadecimal (base 16).  
-Operations: addition, subtraction, multiplication, division.  
-Uses DOS interrupts (INT 21h, INT 10h) for input/output.  
-Implements binary-to-decimal and decimal-to-binary conversions.  
+Operations: addition, subtraction, multiplication, division.
 
 # Requirements  
-Assembler: MASM or TASM  
-Emulator: DOSBox (if running on modern OS)  
-Operating System: MS-DOS or DOS emulation  
+EMU8086: An 8086 emulator and assembler.  
 
-# How to Compile & Run
+# How to Run  
+1-Open EMU8086.  
+2-Load the CAL.ASM file.  
+3-Click Assemble to compile the code.  
+4-Click Run to execute the program.  
+5-Follow the on-screen instructions to input numbers and perform calculations.
